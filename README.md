@@ -30,6 +30,8 @@ This project focuses on classifying various species of fish using an Artificial 
   - **Validation Set:** 1,351 images
   - **Test Set:** 1,350 images
 
+![Fish Image](assets/fishes.jpg)
+
 ## Project Steps
 
 ### Dataset Preparation
@@ -43,6 +45,7 @@ This project focuses on classifying various species of fish using an Artificial 
 ### Image Processing
 - Resized images to a uniform dimension (128x128 pixels) and normalized pixel values to a scale of 0 to 1.
 - Split the dataset into training, validation, and test sets to facilitate proper model evaluation.
+- 
 ### Model Building
 - Constructed a Sequential ANN model with:
   - Input layer
@@ -74,6 +77,9 @@ This project focuses on classifying various species of fish using an Artificial 
   - ROC curve for each class to assess the model's performance comprehensively.
 
 ## How ANN Works
+
+![Artificial Neural Network](assets/artificial%20neural%20network.png)
+
 Artificial Neural Networks (ANNs) are inspired by biological neural networks and consist of interconnected layers of nodes (neurons). Each neuron processes input data and learns to map inputs to outputs through training. During the training process:
 - Each neuron receives input, applies a weight, and passes the result through an activation function.
 - The model adjusts the weights based on the error between predicted and actual outputs using backpropagation.
@@ -106,6 +112,9 @@ The model exhibited effective classification capabilities:
 - **Hyperparameter Tuning:** Use techniques like GridSearchCV or RandomizedSearchCV to optimize model parameters for improved accuracy.
 - **Data Augmentation:** Implement image augmentation techniques (e.g., rotation, flipping, scaling) to enhance the dataset and improve model generalization.
 - **Transfer Learning:** Explore pre-trained models (such as ResNet or VGG) to leverage existing knowledge for better performance in image classification tasks.
+  
+ ![Artificial Neural Network](https://github.com/handekilinc/A-Deep-Learning-Approach-to-Fish-Classification/blob/main/assets/ann.jpg)
+
 
 ## Conclusion
 This project demonstrates the potential of ANNs in the classification of fish species, achieving a validation accuracy of 88.16%. With further optimization, additional data, and advanced techniques, the model can be improved to enhance accuracy and reliability.
