@@ -1,4 +1,6 @@
-![Fish Classification](https://github.com/kullaniciadi/projeadi/raw/main/yuklediğiniz_resim.jpg)
+# A Deep Learning Approach to Fish Classification
+
+![Background Image](assets/background.png)
 
 ## Project Overview
 This project focuses on classifying various species of fish using an Artificial Neural Network (ANN) trained on a large-scale fish dataset. The classification of fish species has significant applications in fisheries management, biodiversity assessment, and marine research.
