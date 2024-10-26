@@ -62,7 +62,7 @@ This project focuses on classifying various species of fish using an Artificial 
   - **Validation Loss:** 0.3683
   - **Training Accuracy:** 90.00%
   - **Validation Accuracy:** 88.16%
-- The model demonstrated a successful classification accuracy of approximately 88.16% on the validation set.
+- The model demonstrated a successful classification accuracy of approximately 90% on the validation set.
 
 ### Evaluation
 - Generated a detailed classification report, including precision, recall, and F1 score for each class.
