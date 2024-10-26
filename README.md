@@ -1,4 +1,4 @@
-# A Deep Learning Approach to Fish Classification
+# A Deep Learning Approach to Fish Classification 🐠
 
 ![Background Image](assets/background.png)
 
