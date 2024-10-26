@@ -99,12 +99,24 @@ Artificial Neural Networks (ANNs) are inspired by biological neural networks and
 - **Biodiversity Assessment:** Supporting conservation efforts through improved species identification.
 - **Aquaculture:** Enhancing species identification for fish farming and breeding programs.
 
-## Results and Evaluation
-The model exhibited effective classification capabilities:
+## Model Performance Summary
+
+This document summarizes the performance of the model.
+
+## Training Values
 - **Training Loss:** 0.2877
-- **Validation Loss:** 0.3683
 - **Training Accuracy:** 90.00%
+
+## Validation Values
+- **Validation Loss:** 0.3683
 - **Validation Accuracy:** 88.16%
+
+## Classification Report
+- **Precision:** 95%
+- **Recall:** 95%
+- **F1 Score:** 94%
+- **Support:** 1350
+
 - Additional evaluation metrics include F1 score and recall, calculated for each class.
 - The ROC curves provide further insights into model performance, with area under the curve (AUC) values indicating the discriminative power for each class.
 
@@ -117,5 +129,5 @@ The model exhibited effective classification capabilities:
 
 
 ## Conclusion
-This project demonstrates the potential of ANNs in the classification of fish species, achieving a validation accuracy of 88.16%. With further optimization, additional data, and advanced techniques, the model can be improved to enhance accuracy and reliability.
+This project demonstrates the potential of ANNs in the classification of fish species, achieving a validation accuracy of 95%. With further optimization, additional data, and advanced techniques, the model can be improved to enhance accuracy and reliability.
 
