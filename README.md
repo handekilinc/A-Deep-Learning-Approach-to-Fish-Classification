@@ -2,16 +2,16 @@
 
 ![Background Image](assets/background.png)
 
-## Project Overview
+## Project Overview 𓆝 𓆟 𓆞 𓆝
 This project focuses on classifying various species of fish using an Artificial Neural Network (ANN) trained on a large-scale fish dataset. The classification of fish species has significant applications in fisheries management, biodiversity assessment, and marine research.
 
-## Project Objectives
+## Project Objectives 𓆝 𓆟 𓆞 𓆝
 - Load and preprocess a comprehensive fish dataset.
 - Implement an ANN model for accurate classification of fish species.
 - Evaluate model performance using multiple metrics, including ROC curves, F1 score, and recall.
 - Visualize results to enhance interpretability and understanding of the model's performance.
 
-## Dataset Information
+## Dataset Information 𓆝 𓆟 𓆞 𓆝
 - **Dataset:** A large-scale fish dataset containing images of various fish species.
 - **Classes:**
 - The dataset includes the following fish species:
@@ -32,7 +32,7 @@ This project focuses on classifying various species of fish using an Artificial 
 
 ![Fish Image](assets/fishes.jpg)
 
-## Project Steps
+## Project Steps 𓆝 𓆟 𓆞 𓆝
 
 ### Dataset Preparation
 - Loaded the fish dataset and organized it into a structured DataFrame.
@@ -76,7 +76,7 @@ This project focuses on classifying various species of fish using an Artificial 
   - Confusion matrix.
   - ROC curve for each class to assess the model's performance comprehensively.
 
-## How ANN Works
+## How ANN Works 𓆝 𓆟 𓆞 𓆝
 
 ![Artificial Neural Network](assets/artificial%20neural%20network.png)
 
@@ -85,7 +85,7 @@ Artificial Neural Networks (ANNs) are inspired by biological neural networks and
 - The model adjusts the weights based on the error between predicted and actual outputs using backpropagation.
 - The learning continues until convergence or early stopping criteria are met.
 
-## Libraries Used
+## Libraries Used 𓆝 𓆟 𓆞 𓆝
 - **pandas:** For data manipulation and analysis.
 - **numpy:** For numerical computations.
 - **matplotlib, seaborn:** For data visualization.
@@ -94,12 +94,12 @@ Artificial Neural Networks (ANNs) are inspired by biological neural networks and
 - **imblearn:** For handling class imbalance if needed.
 - **PIL, cv2:** For image processing tasks.
 
-## Applications
+## Applications 𓆝 𓆟 𓆞 𓆝
 - **Fisheries Management:** Assisting in monitoring fish populations and sustainable fishing practices.
 - **Biodiversity Assessment:** Supporting conservation efforts through improved species identification.
 - **Aquaculture:** Enhancing species identification for fish farming and breeding programs.
 
-## Model Performance Summary
+## Model Performance Summary 𓆝 𓆟 𓆞 𓆝
 
 This document summarizes the performance of the model.
 
@@ -120,7 +120,7 @@ This document summarizes the performance of the model.
 - Additional evaluation metrics include F1 score and recall, calculated for each class.
 - The ROC curves provide further insights into model performance, with area under the curve (AUC) values indicating the discriminative power for each class.
 
-## Future Work
+## Future Work 𓆝 𓆟 𓆞 𓆝
 - **Hyperparameter Tuning:** Use techniques like GridSearchCV or RandomizedSearchCV to optimize model parameters for improved accuracy.
 - **Data Augmentation:** Implement image augmentation techniques (e.g., rotation, flipping, scaling) to enhance the dataset and improve model generalization.
 - **Transfer Learning:** Explore pre-trained models (such as ResNet or VGG) to leverage existing knowledge for better performance in image classification tasks.
@@ -128,6 +128,6 @@ This document summarizes the performance of the model.
  ![Artificial Neural Network](https://github.com/handekilinc/A-Deep-Learning-Approach-to-Fish-Classification/blob/main/assets/ann.jpg)
 
 
-## Conclusion
+## Conclusion 𓆝 𓆟 𓆞 𓆝
 This project demonstrates the potential of ANNs in the classification of fish species, achieving a validation accuracy of 95%. With further optimization, additional data, and advanced techniques, the model can be improved to enhance accuracy and reliability.
 
