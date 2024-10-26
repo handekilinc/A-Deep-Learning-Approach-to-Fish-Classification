@@ -1,6 +1,4 @@
-<div style="text-align: center; background: url('https://e1.pxfuel.com/desktop-wallpaper/999/176/desktop-wallpaper-aquarium-background-aquarium.jpg') no-repeat center center; background-size: cover; height: 300px; display: flex; align-items: center; justify-content: center;">
-    <h1 style="font-size: 48px; color: white; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);">A Deep Learning Approach to Fish Classification</h1>
-</div>
+![Aquarium Background](https://e1.pxfuel.com/desktop-wallpaper/999/176/desktop-wallpaper-aquarium-background-aquarium.jpg)
 
 ## Project Overview
 This project focuses on classifying various species of fish using an Artificial Neural Network (ANN) trained on a large-scale fish dataset. The classification of fish species has significant applications in fisheries management, biodiversity assessment, and marine research.
