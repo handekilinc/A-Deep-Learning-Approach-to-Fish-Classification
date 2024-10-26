@@ -1,4 +1,4 @@
-![Aquarium Background](https://e1.pxfuel.com/desktop-wallpaper/999/176/desktop-wallpaper-aquarium-background-aquarium.jpg)
+![Fish Classification](https://github.com/kullaniciadi/projeadi/raw/main/yuklediğiniz_resim.jpg)
 
 ## Project Overview
 This project focuses on classifying various species of fish using an Artificial Neural Network (ANN) trained on a large-scale fish dataset. The classification of fish species has significant applications in fisheries management, biodiversity assessment, and marine research.
