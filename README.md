@@ -2,6 +2,8 @@
 
 ![Background Image](assets/background.png)
 
+Project Kaggle Link: https://www.kaggle.com/code/handekln/a-deep-learning-approach-to-fish-classification?scriptVersionId=203474260
+
 ## Project Overview 𓆝 𓆟 𓆞 𓆝
 This project focuses on classifying various species of fish using an Artificial Neural Network (ANN) trained on a large-scale fish dataset. The classification of fish species has significant applications in fisheries management, biodiversity assessment, and marine research.
 
